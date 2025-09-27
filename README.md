@@ -86,6 +86,6 @@ The **Examination Office Automation System** is a desktop-based solution develop
 
 ---
 ## Contact & Maintainer
-**Author**: Ramesh Odde
-**GitHub**: [Ramesh-Odde](https://github.com/Ramesh-Odde)
-**Email**: [ramesh.odde95@gmail.com](ramesh.odde95@gmail.com)
+- **Author**: Ramesh Odde
+- **GitHub**: [Ramesh-Odde](https://github.com/Ramesh-Odde)
+- **Email**: [ramesh.odde95@gmail.com](ramesh.odde95@gmail.com)
